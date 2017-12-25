@@ -9,7 +9,7 @@
 [class^=col-xl] {background-color: #ADA; border: solid 1px red;}
 */
 -x.font-small {
-  font-size: 10px;
+  font-size: 11px;
 }
 span {
   color: red;
