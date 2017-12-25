@@ -15,20 +15,9 @@ ol {font-size: 0.85rem;}
 .kvadrat {border: solid 10px #FDE428; height: 58px; width: 300px; float: right;}
 .nav {margin-top: 4px;}
 
-.prim {width: 100%; height: auto;}
+.prim {width: 100%; height: auto; width: auto;}
 
-.icon-bar {display: block;
-	background-color: #FFF;
-    width: 22px;
-    height: 2px;
-    border-radius: 0;
-    position: absolute;
-    top: 0;
-    right: 0;
-    right: 9px;
-    -webkit-transition: all .3s;
-    -o-transition: all .3s;
-    transition: all .3s;}
+.icon-bar {display: block; background-color: #FFF; width: 22px; height: 2px; border-radius: 0; position: absolute; top: 0; right: 0; right: 9px; -webkit-transition: all .3s; -o-transition: all .3s; transition: all .3s;}
 
 /*.navbar-toggle .b1 {top: 12px;}    
 .navbar-toggle .b2 {top: 19px;}    
