@@ -1,0 +1,29 @@
+[class^=col] {
+  border: solid 1px red;
+}
+/*.col {background-color: #DDA; border: solid 1px red;}*/
+/*[class^=col-xs] {background-color: #AAA; border: solid 1px red;}
+[class^=col-sm] {background-color: #DDD; border: solid 1px red;}
+[class^=col-md] {background-color: #EDF; border: solid 1px red;}
+[class^=col-lg] {background-color: #EED; border: solid 1px red;}
+[class^=col-xl] {background-color: #ADA; border: solid 1px red;}
+*/
+-x.font-small {
+  font-size: 10px;
+}
+span {
+  color: red;
+  display: block;
+}
+p {
+  line-height: 1;
+  margin-bottom: 6px!important;
+  margin-top: 2px!important;
+}
+.visota {
+  height: 63px;
+  background-color: #DDD;
+}
+.gray {
+  background-color: #DDD;
+}
